@@ -201,7 +201,7 @@ The dashboard supports data driven decision making by turning complex sales and 
 
 ![Superstore](Superstore.jpg)
 
-# Project 5
+# Project 6
 
 **Title:** [Hear Disease Risk Overview](https://github.com/Henrysylvia/henrysylvia.github.io/blob/main/Heart%20Disease%20Risk.pbix)
 
