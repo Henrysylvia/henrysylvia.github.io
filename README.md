@@ -162,6 +162,7 @@ Using SQL Server, the queries demonstrate how to combine data from the Salesman,
 **Tools Used:** Power BI
 
 **Project Description:** This project analysed retail sales data to understand performance, profitability, discount patterns, and operational activity across regions, product categories, customer segments, and time periods. The analysis was presented through an interactive Power BI dashboard designed to give a clear overview of business performance while allowing users to explore underlying trends in more detail.
+
 The dashboard brings together key commercial metrics—including total sales, profit, profit margin, order volume, units sold, customer count, and average discount—making it easy to assess overall performance and spot areas that may need attention. Filters for category, year, segment, and region support flexible comparisons across different parts of the business.
 Key components include:
 
@@ -200,3 +201,53 @@ The dashboard supports data driven decision making by turning complex sales and 
 
 ![Superstore](Superstore.jpg)
 
+# Project 5
+
+**Title:** [Hear Disease Risk Overview](https://github.com/Henrysylvia/henrysylvia.github.io/blob/main/Heart%20Disease%20Risk.pbix)
+
+**Tools Used:** Power BI
+
+**Project Description:** This project analysed population health data to understand heart disease prevalence and the factors associated with increased risk. The findings were presented through an interactive Power BI dashboard designed to support population-level health insights and help users explore cardiovascular risk across different demographic, lifestyle, and clinical variables.
+
+The dashboard brings together key indicators such as heart disease rate, total cases, average BMI, average sleep duration, and total population. Users can examine how risk varies by age, sex, sleep patterns, smoking and alcohol use, physical health scores, stroke history, and diabetic status. Interactive slicers make it easy to filter the data and identify high risk groups that may benefit from targeted prevention or public health interventions.
+Key components include:
+
+•	Population Health KPIs: Overall heart disease rate, case count, average BMI, average sleep time, and population size.
+
+•	Age Based Risk: Heart disease prevalence across age groups to show how risk increases over time.
+
+•	Sex Based Comparison: Differences in heart disease cases between male and female populations.
+
+•	Lifestyle Factors: Relationships between heart disease and sleep duration, smoking, and alcohol consumption.
+
+•	Clinical Indicators: Exploration of stroke history, diabetic status, and physical health scores as compounding risk factors.
+
+•	Interactive Exploration: Slicers for demographic and health characteristics to support flexible, multi dimensional analysis.
+
+The dashboard turns complex health data into clear, accessible insights that support evidence based population health planning.
+
+
+**Key findings:**
+
+•	Heart disease risk rises with age 
+Prevalence increases steadily across age groups, with the highest rates in older populations.
+
+•	Differences in prevalence by sex 
+Male and female populations show distinct patterns, reinforcing the value of sex specific analysis.
+
+•	Sleep duration shows a non linear relationship with risk 
+Both short and long sleep durations are linked to higher heart disease rates.
+
+•	Smoking is associated with higher prevalence 
+Individuals with a smoking history show more heart disease cases than non smokers.
+
+•	Clinical risk factors compound vulnerability 
+Stroke history, diabetes, and lower physical health scores are all linked to higher heart disease prevalence.
+
+•	BMI levels indicate elevated population risk 
+The average BMI reflects an overweight population profile, highlighting its relevance as a cardiovascular risk factor.
+
+
+**Dashboard Overview:**
+
+![Heart_Disease](Heart_Disease.jpg)
