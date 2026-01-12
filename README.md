@@ -43,7 +43,7 @@ Key features include:
 
 **Dashboard Overview:**
 
-![BMW Dashboard](BMW Dashboard.png)
+![BMW Dashboard](BMW_Dashboard.png)
 
 
 # Project 2
@@ -128,7 +128,7 @@ The queries encompass a range of use cases, including formatting names, filterin
 
 **Title:** Salesman_Order_and_Customer Table: Data Manipulation and Interrogation
 
-**SQL Code:** [Salesman_Order_and_Customer](https://github.com/Henrysylvia/henrysylvia.github.io/blob/main/Salesman_Order_and_Customer)
+**SQL Code:** [Salesman_Order_and_Customer Table SQL Codes](https://github.com/Henrysylvia/henrysylvia.github.io/blob/main/Salesman_Order_and_Customer.sql)
 
 **Skills Used:**
 
@@ -154,4 +154,49 @@ Using SQL Server, the queries demonstrate how to combine data from the Salesman,
 
 
 **Technology used:** SQL server
+
+# Project 5
+
+**Title:** [Retail Sales, Profit & Operational Performance Dashboard](https://github.com/Henrysylvia/henrysylvia.github.io/blob/main/Superstore.pbix)
+
+**Tools Used:** Power BI
+
+**Project Description:** This project analysed retail sales data to understand performance, profitability, discount patterns, and operational activity across regions, product categories, customer segments, and time periods. The analysis was presented through an interactive Power BI dashboard designed to give a clear overview of business performance while allowing users to explore underlying trends in more detail.
+The dashboard brings together key commercial metrics—including total sales, profit, profit margin, order volume, units sold, customer count, and average discount—making it easy to assess overall performance and spot areas that may need attention. Filters for category, year, segment, and region support flexible comparisons across different parts of the business.
+Key components include:
+
+•	Executive KPIs: High level metrics for sales, profit, profit margin, orders, customers, units sold, and discount levels.
+
+•	Regional Performance: Sales and profit comparison across regions, with map visuals highlighting state level trends.
+
+•	Category & Sub Category Insights: Breakdown of sales and profit contribution to identify strong and weak product areas.
+
+•	Discount Impact: Analysis of how discounting affects both sales volume and profitability.
+
+•	Operational Insights: Order distribution by shipping mode to understand fulfilment patterns.
+
+•	Customer Segmentation: Sales performance across consumer, corporate, and home office segments.
+
+The dashboard supports data driven decision making by turning complex sales and operational data into clear, actionable insights.
+
+
+**Key findings:** 
+
+•	Sales performance differs widely by region: Some regions show consistently strong sales and profit, while others generate high sales but weaker margins, pointing to potential pricing or cost related opportunities.
+
+
+•	Technology and Furniture lead revenue contribution: These categories drive the highest share of sales, though margins vary, highlighting the need to balance volume with profitability.
+
+•	Discounting boosts sales but reduces profit: Higher discounts increase order volume but negatively impact profit margins, showing a clear trade off between growth and profitability.
+
+•	Sub category results are mixed: Several sub categories perform strongly, while others regularly underperform or operate at a loss, suggesting areas for product review or pricing adjustments.
+
+•	Standard shipping is the most common fulfilment method: Most orders use standard shipping, reflecting customer preference for lower cost delivery and indicating where operational demand is concentrated.
+
+•	The consumer segment generates the most sales: Consumer customers contribute the largest share of revenue compared with corporate and home office segments, reinforcing their importance to overall performance.
+
+
+**Dashboard Overview:**
+
+![Superstore](Superstore.jpg)
 
