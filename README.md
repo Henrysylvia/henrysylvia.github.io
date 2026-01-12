@@ -92,3 +92,66 @@ The dashboard supports discussions around digital wellbeing and can be used to i
 
 ![Wellbeing](Wellbeing.jpg)
 
+
+# Project 3
+
+**Title:** Employee Table: Data Manipulation and Interrogation
+
+**SQL Code:** [Employee Table SQL Codes](https://github.com/Henrysylvia/henrysylvia.github.io/blob/main/Employee.sql)
+
+**SQL Skills Used:**
+
+•	Data import and ETL (Excel to SQL Server) using Visual Studio: Transferred Excel datasets into SQL Server to prepare data for querying and analysis.
+
+•	Data Retrieval and Formatting: Used SELECT, UPPER, LEFT, and string concatenation to format names and extract partial values.
+
+•	Filtering and Pattern Matching: Applied WHERE, BETWEEN, LIKE, NOT IN, and CHARINDEX to isolate records based on conditions like salary range, name patterns, and address formatting.
+
+•	Aggregation and Grouping: Used COUNT, GROUP BY, and ORDER BY to summarise employee counts by department and gender, and sort results by frequency or alphabetical order.
+
+•	Date and Range Queries: Queried records based on DOB and DATEOFJOINING using BETWEEN and IS NOT NULL to filter time-based data.
+
+•	Top-N and Extremes: Used TOP with ORDER BY to retrieve the highest and lowest salary values.
+
+•	Table Creation: Used SELECT INTO to create a new table by copying the structure and data from an existing one.
+
+•	Conditional Logic Across Tables: Queried both Employee_Info and Employee_Position to link demographic data with positional attributes like salary and job title.
+
+
+**Project Description:** This project involved writing and testing a series of SQL queries to explore employee and position data across two related tables: Employee_Info and Employee_Position. The queries were designed to demonstrate core SQL techniques for data retrieval, transformation, filtering, aggregation, and table creation. The focus was on extracting meaningful insights from HR-related datasets, including employee demographics, departmental structures, salary ranges, and positional details.
+The queries encompass a range of use cases, including formatting names, filtering by conditions, grouping, and sorting data for analysis. They also include logic for handling string manipulation, date filtering, and creating new tables from existing data.
+
+
+**Technology used:** SQL server
+
+# Project 4
+
+**Title:** Salesman_Order_and_Customer Table: Data Manipulation and Interrogation
+
+**SQL Code:** [Salesman_Order_and_Customer](https://github.com/Henrysylvia/henrysylvia.github.io/blob/main/Salesman_Order_and_Customer)
+
+**Skills Used:**
+
+•	Data Import and ETL (Excel to SQL Server) using Visual Studio: Imported datasets from Excel into SQL Server to prepare the tables used for querying and analysis.
+
+•	Relational Joins Across Multiple Tables: Combined Salesman, Customer, and Order tables using INNER JOIN, LEFT JOIN, and CROSS JOIN to analyse relationships such as shared cities, commission structures, and order activity.
+
+•	Conditional Filtering and Business Logic: Applied WHERE, BETWEEN, comparison operators, and logical conditions to filter orders by amount, identify commission thresholds, match or mismatch cities, and select customers by grade.
+
+•	Report Generation Using Multi Table Queries: Created structured outputs showing customer details, order information, salesperson data, and commission values, sorted and formatted for readability.
+
+•	Aggregation and Grouping: Used grouping logic to list salespeople with or without customers, and to summarise relational data where required.
+
+•	String and Column Formatting: Returned clean, labelled outputs using column aliases to present business friendly report fields.
+
+•	CTE (Common Table Expression) Usage: Built a CTE to generate a filtered customer order list based on order amount and grade requirements.
+
+•	Cartesian Products for Scenario Analysis: Used CROSS JOIN to generate combinations of salespeople and customers under specific conditions (e.g., matching cities, grade requirements, or mismatched locations).
+
+
+**Project Description:** This project involved writing a series of SQL queries to analyse and report on relationships between salespeople, customers, and orders across multiple tables. The work focused on joining datasets, filtering records based on business rules, generating reports, and exploring relational patterns such as commissions, customer grades, order behaviour, and city based matching.
+Using SQL Server, the queries demonstrate how to combine data from the Salesman, Customer, and Order tables to answer practical business questions — including identifying high value customers, analysing commission structures, checking order activity, and producing detailed sales reports. The project also includes the use of INNER JOIN, LEFT JOIN, CROSS JOIN, and CTEs to handle more complex logic and reporting requirements.
+
+
+**Technology used:** SQL server
+
