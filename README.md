@@ -38,4 +38,4 @@ Key features include:
 
 **Dashboard Overview:**
 
-![BMW Dashboard.png](https://github.com/Henrysylvia/henrysylvia.github.io/blob/main/BMW%20Dashboard.png)
+![BMW Dashboard](https://github.com/Henrysylvia/henrysylvia.github.io/blob/main/BMW%20Dashboard.png)
