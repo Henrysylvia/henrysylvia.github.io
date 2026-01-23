@@ -32,7 +32,7 @@ Key features include:
 
 •	Hybrid and electric vehicles show growing demand: Certain regions demonstrate strong interest in sustainable vehicle options, signalling a shift toward low emission models.
 
-•	Fuel type and transmission influence sales classification: Automatic vehicles—especially petrol and hybrid—are more commonly associated with higher sales classifications, suggesting a preference for convenience and performance.
+•	Fuel type and transmission influence sales classification: Automatic vehicles, especially petrol and hybrid, are more commonly associated with higher sales classifications, suggesting a preference for convenience and performance.
 
 •	A few top models drive most of the sales: A small number of models contribute a large share of total sales, making them central to BMW’s global revenue.
 
@@ -150,7 +150,7 @@ The queries encompass a range of use cases, including formatting names, filterin
 
 
 **Project Description:** This project involved writing a series of SQL queries to analyse and report on relationships between salespeople, customers, and orders across multiple tables. The work focused on joining datasets, filtering records based on business rules, generating reports, and exploring relational patterns such as commissions, customer grades, order behaviour, and city based matching.
-Using SQL Server, the queries demonstrate how to combine data from the Salesman, Customer, and Order tables to answer practical business questions — including identifying high value customers, analysing commission structures, checking order activity, and producing detailed sales reports. The project also includes the use of INNER JOIN, LEFT JOIN, CROSS JOIN, and CTEs to handle more complex logic and reporting requirements.
+Using SQL Server, the queries demonstrate how to combine data from the Salesman, Customer, and Order tables to answer practical business questions, including identifying high value customers, analysing commission structures, checking order activity, and producing detailed sales reports. The project also includes the use of INNER JOIN, LEFT JOIN, CROSS JOIN, and CTEs to handle more complex logic and reporting requirements.
 
 
 **Technology used:** SQL server
@@ -163,7 +163,7 @@ Using SQL Server, the queries demonstrate how to combine data from the Salesman,
 
 **Project Description:** This project analysed retail sales data to understand performance, profitability, discount patterns, and operational activity across regions, product categories, customer segments, and time periods. The analysis was presented through an interactive Power BI dashboard designed to give a clear overview of business performance while allowing users to explore underlying trends in more detail.
 
-The dashboard brings together key commercial metrics—including total sales, profit, profit margin, order volume, units sold, customer count, and average discount—making it easy to assess overall performance and spot areas that may need attention. Filters for category, year, segment, and region support flexible comparisons across different parts of the business.
+The dashboard brings together key commercial metrics, including total sales, profit, profit margin, order volume, units sold, customer count, and average discount, making it easy to assess overall performance and spot areas that may need attention. Filters for category, year, segment, and region support flexible comparisons across different parts of the business.
 Key components include:
 
 •	Executive KPIs: High level metrics for sales, profit, profit margin, orders, customers, units sold, and discount levels.
