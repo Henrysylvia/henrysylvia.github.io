@@ -250,4 +250,4 @@ The average BMI reflects an overweight population profile, highlighting its rele
 
 **Dashboard Overview:**
 
-![Heart_Disease](Heart_Disease.jpg)
+![Power_BI_1](Power_BI_1.png)
