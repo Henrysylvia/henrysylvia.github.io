@@ -90,7 +90,7 @@ The dashboard supports discussions around digital wellbeing and can be used to i
 
 **Dashboard Overview:**
 
-![Wellbeing](Wellbeing.jpg)
+![Excel_2.png](Excel_2.png)
 
 
 # Project 3
