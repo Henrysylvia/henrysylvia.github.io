@@ -43,7 +43,7 @@ Key features include:
 
 **Dashboard Overview:**
 
-![Excel_1.png](Excel_1.png)
+![ExcelPage1.png](ExcelPage1.png)
 
 
 # Project 2
